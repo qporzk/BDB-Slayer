@@ -19,4 +19,3 @@ Maintenance
 ## Files
 
 This will summarize the 3D models included in the repo, as far as what they are, what they replace, and best practices for acquiring them.
-```
