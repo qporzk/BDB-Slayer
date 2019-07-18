@@ -16,6 +16,6 @@ Upgrades
 Maintenance
   - This covers maintenance, both preventative and reactive, as well as general routine maintenace and cleanup that should be performed
 
-## Files
+## Models
 
 This will summarize the 3D models included in the repo, as far as what they are, what they replace, and best practices for acquiring them.
