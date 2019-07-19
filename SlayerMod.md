@@ -4,10 +4,9 @@ This outlines the steps needed to perform the Slayer mod on a stock machine
 
 ## STOCK tube setup on a BDB 920
 
-
+![Stock BDB tube setup](https://github.com/qporzk/BDB-Slayer/blob/master/Pictures/BDB-Stock-Tubes.jpg)
 
 This is an image taken from the front of the machine so the bottom of the image is the front of the machine.
-Image
 
 I'll list the tubes in the order that I did my modification. Also think of the needle valve as a "T". The portion of the needle valve that points to the back of the machine is the middle of the "T". One side of the "T" is the hot water knob.
 
@@ -24,7 +23,7 @@ My tubes and fittings are not the same across all 900s or 920s, I don't believe,
 ## Modified BDB with color coded tubes now in new positions
 Detach both tubes from the needle valve. It makes it easier to work through.
 
-Image
+![Slayer Mod BDB tube setup](https://github.com/qporzk/BDB-Slayer/blob/master/Pictures/BDB-SlayerMod-Tubes.jpg)
 
 New Configuration:
 ### Light Purple Tube - Removed from the top of the brew boiler and fitted to the needle valve (middle "T").
