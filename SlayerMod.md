@@ -1,6 +1,6 @@
 # BDB Slayer Mod
 
-This outlines the steps needed to perform the Slayer mod on a stock machine
+This outlines the steps needed to perform the Slayer mod on a stock machine as written by user Spitz.me on the Home-Barista forum: https://www.home-barista.com/member/Spitz.me/
 
 ## STOCK tube setup on a BDB 920
 
