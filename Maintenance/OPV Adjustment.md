@@ -10,7 +10,7 @@ This is the current best tut on this: http://nic.steve-tek.com/?page_id=180
 - Rotate the plastic shaft to adjust the pressure
   - Counter-Clockwise decreases pressure
   - Clockwise increases pressure
-  - One full turn is approximately equal to 1 bar of adjustment
+  - One quarter turn is approximately equal to 1 bar of adjustment
 - Replace the locking collar
 - Slide the tubae back on
 - Slide the clamp back on 
