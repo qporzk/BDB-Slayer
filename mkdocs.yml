@@ -1,6 +1,10 @@
-site_name: Simplify3D Documentation
+site_name: Breville Dual Boiler Advanced Use
 nav:
-    - Home: index.md
-    - Infill Patterns: InfillPattern.md
+    - Home: README.md
+    - Pulling Shots: PullingShots.md
+    - Slayer Mod: SlayerMod.md
+    - Needle Valve Upgrade: JakeValve.md
+    - Upgrades: Upgrades.md
+    - Replacement Part Sources: ReplacementParts.md
 theme:
   name: 'material'
