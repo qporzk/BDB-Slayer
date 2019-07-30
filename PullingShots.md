@@ -1,7 +1,8 @@
 # Pulling Shots
-### This will outline how to pull shots once the Slayer Mod has been performed.
+### This will outline different methods to pull shots once the Slayer Mod has been performed.
 
-## Setup
+## Classic Slayer Shot
+### Setup
 - Set needle valve to barely open 
 - Place cup on scale under grouphead
 - Hold single cup button to run pump
@@ -10,7 +11,7 @@
 - Adjust valve and rerun test until you get 1.4ml/s
 - Make a mark on the machine so save this position
 
-## The Pull
+### The Pull
 * Set preinfusion time to 0 seconds
 * Install portafilter
 * Set valve to 1.4ml/s mark
