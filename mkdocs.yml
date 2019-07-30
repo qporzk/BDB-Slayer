@@ -1,0 +1,6 @@
+site_name: Simplify3D Documentation
+nav:
+    - Home: index.md
+    - Infill Patterns: InfillPattern.md
+theme:
+  name: 'material'
