@@ -16,10 +16,10 @@
 - Set valve to 1.4ml/s mark
 - Press manual button to start shot
 - Preinfuse for desired time
--- Aim to start pressure ramp around 18s
--- First drops should start around 20s 
--- Pressure should get to 9 bar at about 25s
+ - Aim to start pressure ramp around 18s
+ - First drops should start around 20s 
+ - Pressure should get to 9 bar at about 25s
 - Open valve for desired amount of full flow time
--- Aim for 2/3 of your total output weight
+ - Aim for 2/3 of your total output weight
 - Set valve back to 1.4ml/s mark
 - Press manual button to stop the shot when target weight is reached (or a bit before)
