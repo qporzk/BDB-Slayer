@@ -2,9 +2,10 @@ site_name: Breville Dual Boiler Advanced Use
 nav:
     - Home: README.md
     - Pulling Shots: PullingShots.md
-    - Slayer Mod: SlayerMod.md
-    - Needle Valve Upgrade: JakeValve.md
-    - Upgrades: Upgrades.md
+    - mod:    
+        - Slayer Mod: SlayerMod.md
+        - Needle Valve Upgrade: JakeValve.md
+        - Upgrades: Upgrades.md
     - Replacement Part Sources: ReplacementParts.md
     - Maintenance:
       - 'OPV Adjustment': 'OPVAdjustment.md'
