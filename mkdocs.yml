@@ -3,10 +3,10 @@ nav:
     - Home: README.md
     - Pulling Shots: PullingShots.md
     - Modifications:    
-        - Slayer Mod: SlayerMod.md
-        - Needle Valve Upgrade: JakeValve.md
-        - Upgrades: Upgrades.md
+        - Slayer Mod: Modifications/SlayerMod.md
+        - Needle Valve Upgrade: Modifications/JakeValve.md
+        - Upgrades: Modifications/Upgrades.md
     - Maintenance:
-      - OPV Adjustment: OPVAdjustment.md
-      - Replacement Parts: ReplacementParts.md
+      - OPV Adjustment: Maintenance/OPVAdjustment.md
+      - Replacement Parts: Maintenance/ReplacementParts.md
 theme: readthedocs
