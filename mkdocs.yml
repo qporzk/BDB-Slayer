@@ -9,7 +9,4 @@ nav:
     - Maintenance:
       - 'OPV Adjustment': 'OPVAdjustment.md'
       - 'Replacement Parts': 'ReplacementParts.md'
-theme:
-  name: 'mkdocs'
-  feature:
-    tabs: false
+theme: readthedocs
