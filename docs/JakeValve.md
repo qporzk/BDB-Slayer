@@ -1,4 +1,4 @@
-## Summary
+# Summary
 
 This doc covers the "Jake Valve", a replacement for the Hot Water Needle Valve discovered/designed by Jake_G from Home-Barista.
 
