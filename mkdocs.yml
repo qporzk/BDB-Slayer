@@ -11,3 +11,6 @@ nav:
       - Replacement Parts: Maintenance/ReplacementParts.md
 
 theme: readthedocs
+
+plugins:
+    - search
