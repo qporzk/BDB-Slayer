@@ -12,7 +12,7 @@ This is the current best tut on this: http://nic.steve-tek.com/?page_id=180
   - Clockwise increases pressure
   - One quarter turn is approximately equal to 1 bar of adjustment
 - Replace the locking collar
-- Slide the tubae back on
+- Slide the tube back on
 - Slide the clamp back on 
 - Turn on machine and test pressure
   - Install portafilter with blind basket
