@@ -8,5 +8,5 @@ nav:
     - Replacement Part Sources: ReplacementParts.md
     - Maintenance:
       - 'OPV Adjustment': 'OPVAdjustment.md'
-theme:
-  name: 'material'
+# theme:
+#   name: 'material'
