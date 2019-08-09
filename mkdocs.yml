@@ -1,15 +1,12 @@
 site_name: BDB Advanced Guides
 nav:
-    - Home: README.md
-    - Modification Options:    
-        - Slayer Mod: Modifications/SlayerMod.md
-        - Needle Valve Upgrade: Modifications/JakeValve.md
-        - Upgrades: Modifications/Upgrades.md
-    - Operation:
-        - Pulling Shots: PullingShots.md
-    - Maintenance:
-      - OPV Adjustment: Maintenance/OPVAdjustment.md
-      - Replacement Parts: Maintenance/ReplacementParts.md
+    - Home: README.md    
+    - Slayer Mod: Modifications/SlayerMod.md
+    - Needle Valve Upgrade: Modifications/JakeValve.md
+    - Upgrades: Modifications/Upgrades.md
+    - Pulling Shots: PullingShots.md
+    - OPV Adjustment: Maintenance/OPVAdjustment.md
+    - Replacement Parts: Maintenance/ReplacementParts.md
 
 theme: readthedocs
 
