@@ -24,4 +24,4 @@ Maintenance
 
 ## Models
 
-This will summarize the 3D models included in the repo, as far as what they are, what they replace, and best practices for acquiring them.
+[Models for 3D printing can be found here.](https://github.com/qporzk/BDB-Slayer/tree/master/docs/Models)
