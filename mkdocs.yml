@@ -12,6 +12,7 @@ nav:
       - Replacement Parts: Maintenance/ReplacementParts.md
 
 theme:
+  logo: 'Pictures/logo.png'
   name: 'material'
   palette:
     primary: 'blue grey'
