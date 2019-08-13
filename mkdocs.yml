@@ -1,6 +1,6 @@
 site_name: BDB Advanced Guides
 nav:
-    - Home: README.md
+    - Home: Home.md
     - Modification Options:    
         - Slayer Mod: Modifications/SlayerMod.md
         - Needle Valve Upgrade: Modifications/JakeValve.md
