@@ -11,7 +11,7 @@ nav:
       - OPV Adjustment: Maintenance/OPVAdjustment.md
       - Replacement Parts: Maintenance/ReplacementParts.md
 
-theme: readthedocs
+theme: material
 
 plugins:
     - search
