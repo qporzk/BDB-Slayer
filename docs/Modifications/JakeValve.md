@@ -26,4 +26,4 @@ This doc covers the "Jake Valve", a replacement for the Hot Water Needle Valve d
 
 ## Cross section of new assembly
 
-![Cross Section](https://github.com/qporzk/BDB-Slayer/blob/master/docs/Pictures/Custom_assembly_cutaway.jpg)
+![Cross Section](https://raw.githubusercontent.com/qporzk/BDB-Slayer/master/docs/Pictures/Custom_assembly_cutaway.jpg)
