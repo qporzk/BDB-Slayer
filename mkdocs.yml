@@ -11,7 +11,13 @@ nav:
       - OPV Adjustment: Maintenance/OPVAdjustment.md
       - Replacement Parts: Maintenance/ReplacementParts.md
 
-theme: material
+theme:
+  name: 'material'
+  palette:
+    primary: 'blue grey'
+    accent: 'teal'
+  feature:
+      tabs: false
 
 plugins:
     - search
