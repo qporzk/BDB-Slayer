@@ -1,5 +1,5 @@
 # Pulling Shots
-### This will outline different methods to pull shots once the Slayer Mod has been performed.
+ This will outline different methods to pull shots once the Slayer Mod has been performed.
 
 
 ## Classic Slayer Shot
@@ -50,7 +50,7 @@ This shot mimics the blooming espresso outlined in Scott Rao's blog post: https:
 - Run shot to desired output weight
 
 ## Normal shot
-This is just a normal shot ¯\\\_(ツ)_/¯
+This is just a normal shot ¯\\\_(ツ)_/¯\
 
 ### Setup
 - Set preinfusion time to desired amount
