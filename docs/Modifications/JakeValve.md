@@ -4,9 +4,9 @@ This doc covers the "Jake Valve", a replacement for the Hot Water Needle Valve d
 
 ## BOM
 
-- Clippard Valve - https://www.clippard.com/part/M-MNV-1K
-- Male push connects - https://www.amazon.com/gp/product/B01N6JF205/ref=ppx_yo_dt_b_asin_image_o00_s00?ie=UTF8&psc=1
-- Female push connects - https://www.amazon.com/gp/product/B01N6JF205/ref=ppx_yo_dt_b_asin_image_o00_s00?ie=UTF8&psc=1
+- [Clippard Valve](https://www.clippard.com/part/M-MNV-1K)
+- [Male push connects](https://www.amazon.com/gp/product/B01N6JF205/ref=ppx_yo_dt_b_asin_image_o00_s00?ie=UTF8&psc=1)
+- [Female push connects](https://www.amazon.com/gp/product/B01N6JF205/ref=ppx_yo_dt_b_asin_image_o00_s00?ie=UTF8&psc=1)
 - 3D printed shaft and housing
 
 ## Procedure
