@@ -14,13 +14,13 @@ This repo is meant to be a knowledge base for mods to the Breville Dual Boiler e
 
 Slayer Mod
   - This is a pictorial guide to doing this mod
-  
+
 Pulling with the Slayer Mod
   - This focuses on actually pulling shots once the mod is completed. This includes how the pulls work, what the best profiles are, and theory on profiles.
-  
+
 Upgrades
   - This focuses on other upgrades that can be made, including replacing the needle valve, replacing the pump, plumbing in, and others.
-  
+
 Maintenance
   - This covers maintenance, both preventative and reactive, as well as general routine maintenace and cleanup that should be performed
 
