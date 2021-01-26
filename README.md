@@ -24,4 +24,7 @@ Maintenance
 
 ## Models
 
+NOTE: These models are out of date, as they were made for my BDB which was slightly broken. The portion of the body where the hot water knob attaches has a flange that I was unaware of as it was broken off on my machine. I've added an updated .f3d file called "BDB Marker Knob Stock" which may work for new machines, but may need the recess in the knob and cutting of fins on the Drive to be increased in size/depth, as I've only estimated the size of the flange from pictures. If you edit this to fit well on a stock machine, let me know and I can update the model.
+
+
 This will summarize the 3D models included in the repo, as far as what they are, what they replace, and best practices for acquiring them.
